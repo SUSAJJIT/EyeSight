@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/tZthqNw/logo2-1.png "Logo")
+![alt text](https://i.ibb.co/rF18NHW/Eyesight-logo-1.png "Logo")
 
 ## About the Project
 
