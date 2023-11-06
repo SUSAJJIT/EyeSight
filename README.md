@@ -1,5 +1,5 @@
 ## Project Logo
-https://i.ibb.co/L1FY8Qh/rsz-eyesight-logo-2.png
+![alt text](https://i.ibb.co/L1FY8Qh/rsz-eyesight-logo-2.png)
 
 ## About the Project
 
