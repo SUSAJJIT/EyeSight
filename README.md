@@ -1,6 +1,3 @@
-## Project Logo
-![alt text](https://i.ibb.co/L1FY8Qh/rsz-eyesight-logo-2.png)  
-
 ## About the Project
 
 EyeSight is a project to make the lives of visually impaired people easier. It provides features like face recognition, object recognition, text recognition and voice navigation.
@@ -42,6 +39,9 @@ Navigate to any page of the site with the following simple commands. Click on th
 * Read : to navigate to the read text page
 * About : to navigate to the about us page
 
+
+## Project Logo
+![alt text](https://i.ibb.co/L1FY8Qh/rsz-eyesight-logo-2.png)  
 
 
 # ScreenShots Of the Project
