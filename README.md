@@ -8,7 +8,6 @@ Using face recognition technology, the system will identify object, emotions and
 * React.js
 * face-api.js
 * tesseract.js
-* tensorflow
 
 ## Getting Started
 After cloning the repository, go to **eyesight** named folder then:
